@@ -1,5 +1,5 @@
 def main():
- num = int(input("Enter a number: "))
+ num = int(input("enter number "))
  while num != 1:
   if (num % 2) == 0:
    num /= 2
