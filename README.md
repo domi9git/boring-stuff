@@ -1,3 +1,3 @@
 # boring-stuff
 
-boring stuff that i wrote (mostly space related)
+boring stuff that i wrote
